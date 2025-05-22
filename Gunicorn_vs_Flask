@@ -1,0 +1,6 @@
+Feature	Gunicorn	flask run
+Production-ready	✅	❌
+Multi-process handling	✅	❌
+Performance-optimized	✅	❌
+Scalable with workers	✅	❌
+Graceful reloading & logging	✅	❌
